@@ -13,5 +13,6 @@ uh this script is for linux for now sorry im 12 guys but anyways uh have fun usi
 * Linux support only. 
 * Made for fun and learning or some thing.
 * If it helps you fix your controller, that's awesome.
+* Use this command or something for me it works "g++ -std=c++17 -o main main.cpp && ./main"
 
 Have fun! :D
